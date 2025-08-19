@@ -31,9 +31,10 @@ I am a git hub builder.here something you like to see🫡.
 ## 🔗 Featured Projects
 
 ### 💎 [**ERC-20 Token Contract**](https://github.com/Rinku597/Zenchain-/commit/bcb89f6c15efc89028b849285692320e0fd4a6e4)
-An example ERC-20 token built using Solidity and Hardhat.  
+An example ERC-20 token built using Solidity and Hardhat. 
 
-###[** 📛 NFT Minting DApp**](https://github.com/Rinku597/Zenchain-/blob/NFT.Dapps/README.md?plain=1)
+
+###📛[** NFT Minting DApp**](https://github.com/Rinku597/Zenchain-/blob/NFT.Dapps/README.md?plain=1)
 A simple Web3 DApp that lets users mint NFTs to their wallets.  
 
 ---
