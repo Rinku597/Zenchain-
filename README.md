@@ -34,7 +34,7 @@ I am a git hub builder.here something you like to see🫡.
 An example ERC-20 token built using Solidity and Hardhat. 
 
 
-###📛[** NFT Minting DApp**](https://github.com/Rinku597/Zenchain-/blob/NFT.Dapps/README.md?plain=1)
+### 📛[** NFT Minting DApp**](https://github.com/Rinku597/Zenchain-/blob/NFT.Dapps/README.md?plain=1)
 A simple Web3 DApp that lets users mint NFTs to their wallets.  
 
 ---
